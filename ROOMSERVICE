@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_external_bson" path="external/bson" remote="github" $
+  <project name="moto-SDM660/android_kernel_motorola_sdm660" path="kernel/motorola/msm8$
+  <project name="jasonmerc/android_device_motorola_payton-sdm660" path="device/motorola$
+  <project name="jasonmerc/android_device_motorola_sdm660-common" path="device/motorola$
+  <project name="erfanoabdi/proprietary_vendor_motorola" path="vendor/motorola" remote=$
+</manifest>
